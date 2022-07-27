@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Wed Jul 27 18:27:39 2022
+# Make data base, printed on Wed Jul 27 20:58:58 2022
 
 # Variables
 
@@ -36,7 +36,8 @@ SHELL := sh.exe
 # environment
 WINDIR = C:\Windows
 # environment
-VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"f1271d778ec77496b280bb178e5ed275.ru","_translationsConfigFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\tcf.json","_cacheRoot":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru","_resolvedLanguagePackCoreLocation":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\3b889b090b5ad5793f524b5d1d39fda662b96a2a","_corruptedFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"f1271d778ec77496b280bb178e5ed275.ru","_translationsConfigFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\tcf.json","_cacheRoot":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru","_resolvedLanguagePackCoreLocation":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496 
+b280bb178e5ed275.ru\\3b889b090b5ad5793f524b5d1d39fda662b96a2a","_corruptedFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\corrupted.info","_languagePackSupport":true}
 # environment
 VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
@@ -44,8 +45,7 @@ PYCHARM COMMUNITY EDITION = C:\Program Files\JetBrains\PyCharm Community Edition
 # environment
 ONEDRIVE = C:\Users\admin\OneDrive
 # environment
-PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.W 
-SH;.MSC
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
 # makefile (from 'Makefile', line 1)
 MAKEFILE_LIST :=  Makefile
 # environment
@@ -85,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11532_TTFWRCPHHZBIMWNJ
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_6752_MYLDDQRBOZVFDXVS
 # environment
 COMPUTERNAME = LILSLIME-PC
 # environment
@@ -169,8 +169,7 @@ TEMP = C:\Users\admin\AppData\Local\Temp
 # environment
 AMDRMPATH = C:\Program Files\AMD\RyzenMaster\
 # environment
-COMSPEC = C:\Windows\system32\cm 
-d.exe
+COMSPEC = C:\Windows\system32\cmd.exe
 # default
 MAKEFILES := 
 # automatic
@@ -200,7 +199,7 @@ FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 PT7HOME = C:\Program Files\Cisco Packet Tracer 7.3.1
 # environment
-VSCODE_PID = 11532
+VSCODE_PID = 6752
 # environment
 USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # variable set hash-table stats:
@@ -216,9 +215,10 @@ USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # C:\ProgramData\DockerDesktop\version-bin: could not be stat'd.
 # C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR (key C:/Program Files/NVIDIA Corporation/NVIDIA NvDLISR, mtime 1610115095): 5 files, no impossibilities.
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1610119798): 31 files, no impossibilities.
-# . (key c:/Golang/test Telegram bot, mtime 1658733085): 9 files, no impossibilities.
+# . (key c:/Golang/test Telegram bot, mtime 1658944113): 10 files, no impossibilities.
 # C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/, mtime 1653307625): 7 files, no impossibilities.
-# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1642757559): 5 files, no impossibilities.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common 
+ Files/Oracle/Java/javapath, mtime 1642757559): 5 files, no impossibilities.
 # C:\Users\admin\AppData\Local\Programs\Python\Python39\ (key C:/Users/admin/AppData/Local/Programs/Python/Python39/, mtime 1624210426): 18 files, no impossibilities.
 # C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/150/Tools/Binn/, mtime 1653402986): 4 files, no impossibilities.
 # C:\TDM-GCC-64\bin (key C:/TDM-GCC-64/bin, mtime 1656687897): 61 files, no impossibilities.
@@ -249,7 +249,7 @@ USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # C:\Users\admin\.dotnet\tools (key C:/Users/admin/.dotnet/tools, mtime 1653410772): 4 files, no impossibilities.
 # C:\Program Files\PuTTY\ (key C:/Program Files/PuTTY/, mtime 1636207345): 12 files, no impossibilities.
 
-# 3945 files, no impossibilities in 36 directories.
+# 3946 files, no impossibilities in 36 directories.
 
 # Implicit Rules
 
@@ -290,10 +290,7 @@ Makefile:
 # Not a target:
 .DEFAULT:
 #  Implicit rule search has not been done.
-#  Modification time never checked. 
-make.exe: *** No rule to make target 'all'.  Stop.
-
-
+#  Modification time never checked.
 #  File has not been updated.
 
 run:
@@ -312,14 +309,16 @@ run:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 8 (7) / strings = 3818 / storage = 58369 B / avg = 15 B
-# current buf: size = 8174 B / used = 1206 B / count = 78 / avg = 15 B
-# other used: total = 50195 B / count = 3740 / avg = 13 B
-# other free: total = 55 B / max = 12 B / min = 4 B / avg = 7 B
+# strcache buffers: 8 (7) / strings = 3819 / storage = 58374 B / avg = 15 B
+# current buf: size = 8174 B / used = 1216 B / count = 80 / avg = 15 B
+# other used: total = 50200 B / count = 3739 / avg = 13 B
+# other free: total = 60 B / max = 13 B / min = 5 B / avg = 8 B
 
-# strcache performance: lookups = 3994 / hit rate = 4%
+# strcache performance: lookups = 3995 / hit rate = 4%
 # hash-table stats:
-# Load=3818/8192=47%, Rehash=0, Collisions=1570/3994=39%
-# Finished Make data base on Wed Jul 27 18:27:39 2022
+# Load=3819/8192=47%, Rehash=0, Collisions=1571/3995=39%
+# Finished Make data base on Wed Jul 27 20:58:58 2022
 
  
+make.exe: *** No rule to make target 'all'.  Stop.
+

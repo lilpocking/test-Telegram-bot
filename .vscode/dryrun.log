@@ -1,5 +1,6 @@
 make.exe --dry-run --always-make --keep-going --print-directory
 make.exe: Entering directory 'c:/Golang/test Telegram bot'
 go run cmd/main.go -t 
+ 
 make.exe: Leaving directory 'c:/Golang/test Telegram bot'
  
