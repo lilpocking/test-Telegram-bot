@@ -63,10 +63,18 @@ func (c *Client) SendMessage(chatId int, text string) error {
 	q.Add("chat_id", strconv.Itoa(chatId))
 	q.Add("text", text)
 
-	_, err := c.doRequest(sendMessageMethod, q)
+	response, err := c.doRequest(sendMessageMethod, q)
+
+	var updResp UpdatesResponse
+	json.Unmarshal(response, &updResp)
+
 	if err != nil {
 		return e.WrapIfErr("can't send message: %w", err)
 	}
+	if !updResp.OK {
+		return errors.New(updResp.Description)
+	}
+
 	return nil
 }
 

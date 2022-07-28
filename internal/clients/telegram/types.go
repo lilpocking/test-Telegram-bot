@@ -6,8 +6,9 @@ type Update struct {
 }
 
 type UpdatesResponse struct {
-	OK     bool     `json:"ok"`
-	Result []Update `json:"result"`
+	OK          bool     `json:"ok"`
+	Result      []Update `json:"result"`
+	Description string   `json:"description"`
 }
 
 type IncomingMessage struct {
