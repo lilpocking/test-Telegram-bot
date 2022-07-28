@@ -58,6 +58,7 @@ func (c *Client) Updates(offset int, limit int) ([]Update, error) {
 }
 
 func (c *Client) SendMessage(chatId int, text string) error {
+	//fmt.Println(chatId)
 	q := url.Values{}
 	q.Add("chat_id", strconv.Itoa(chatId))
 	q.Add("text", text)
@@ -90,7 +91,7 @@ func (c *Client) doRequest(method string, query url.Values) ([]byte, error) {
 	if err != nil {
 		return nil, e.WrapIfErr(reqErr, err)
 	}
-	defer resp.Body.Close()
+	defer func() { _ = resp.Body.Close() }()
 
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {

@@ -100,15 +100,15 @@ func event(u telegram.Update) events.Event {
 
 func fetchType(u telegram.Update) events.Type {
 	if u.Message != nil {
-		return events.Unknown
+		return events.Message
 	}
 
-	return events.Message
+	return events.Unknown
 }
 
 func fetchText(u telegram.Update) string {
 	if u.Message != nil {
-		return ""
+		return u.Message.Text
 	}
-	return u.Message.Text
+	return ""
 }
