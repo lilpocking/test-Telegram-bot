@@ -7,7 +7,7 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Wed Jul 27 20:58:58 2022
+# Make data base, printed on Thu Jul 28 16:21:30 2022
 
 # Variables
 
@@ -36,8 +36,7 @@ SHELL := sh.exe
 # environment
 WINDIR = C:\Windows
 # environment
-VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"f1271d778ec77496b280bb178e5ed275.ru","_translationsConfigFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\tcf.json","_cacheRoot":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru","_resolvedLanguagePackCoreLocation":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496 
-b280bb178e5ed275.ru\\3b889b090b5ad5793f524b5d1d39fda662b96a2a","_corruptedFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"ru","availableLanguages":{"*":"ru"},"_languagePackId":"f1271d778ec77496b280bb178e5ed275.ru","_translationsConfigFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\tcf.json","_cacheRoot":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru","_resolvedLanguagePackCoreLocation":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\3b889b090b5ad5793f524b5d1d39fda662b96a2a","_corruptedFile":"C:\\Users\\admin\\AppData\\Roaming\\Code\\clp\\f1271d778ec77496b280bb178e5ed275.ru\\corrupted.info","_languagePackSupport":true}
 # environment
 VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
@@ -63,7 +62,8 @@ VSCODE_CWD = C:\Users\admin\AppData\Local\Programs\Microsoft VS Code
 # environment
 GOPROXY = https://proxy.golang.org,direct
 # environment
-ESET_OPTIONS = $(subst ,,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               )
+ESET_OP 
+TIONS = $(subst ,,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               )
 # environment
 PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\MATLAB\R2017b\runtime\win64;C:\Program Files\MATLAB\R2017b\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\mysql\bin\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\TDM-GCC-64\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-release-posix-seh-rt_v6-rev0\mingw64\bin;C:\opencv\build\install\x64\mingw\bin;C:\MinGW\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\admin\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\admin\AppData\Local\Programs\Python\Python39\;C:\Users\admin\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.1.3\bin;;C:\Users\admin\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Nmap;C:\Users\admin\.dotnet\tools;C:\Users\admin\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\CMake\bin;C:\Users\admin\go\bin
 # environment
@@ -85,7 +85,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_6752_MYLDDQRBOZVFDXVS
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_5772_FYYYFQULLHQNGQZB
 # environment
 COMPUTERNAME = LILSLIME-PC
 # environment
@@ -169,7 +169,8 @@ TEMP = C:\Users\admin\AppData\Local\Temp
 # environment
 AMDRMPATH = C:\Program Files\AMD\RyzenMaster\
 # environment
-COMSPEC = C:\Windows\system32\cmd.exe
+COMSPEC = C:\Windows\system32\cmd 
+.exe
 # default
 MAKEFILES := 
 # automatic
@@ -199,7 +200,7 @@ FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 PT7HOME = C:\Program Files\Cisco Packet Tracer 7.3.1
 # environment
-VSCODE_PID = 6752
+VSCODE_PID = 5772
 # environment
 USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # variable set hash-table stats:
@@ -217,8 +218,7 @@ USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # C:\Windows\System32\WindowsPowerShell\v1.0\ (key C:/Windows/System32/WindowsPowerShell/v1.0/, mtime 1610119798): 31 files, no impossibilities.
 # . (key c:/Golang/test Telegram bot, mtime 1658944113): 10 files, no impossibilities.
 # C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/, mtime 1653307625): 7 files, no impossibilities.
-# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common 
- Files/Oracle/Java/javapath, mtime 1642757559): 5 files, no impossibilities.
+# C:\Program Files (x86)\Common Files\Oracle\Java\javapath (key C:/Program Files (x86)/Common Files/Oracle/Java/javapath, mtime 1642757559): 5 files, no impossibilities.
 # C:\Users\admin\AppData\Local\Programs\Python\Python39\ (key C:/Users/admin/AppData/Local/Programs/Python/Python39/, mtime 1624210426): 18 files, no impossibilities.
 # C:\Program Files\Microsoft SQL Server\150\Tools\Binn\ (key C:/Program Files/Microsoft SQL Server/150/Tools/Binn/, mtime 1653402986): 4 files, no impossibilities.
 # C:\TDM-GCC-64\bin (key C:/TDM-GCC-64/bin, mtime 1656687897): 61 files, no impossibilities.
@@ -246,7 +246,10 @@ USERDOMAIN_ROAMINGPROFILE = LILSLIME-PC
 # C:\Windows\system32 (key C:/Windows/system32, mtime 1658816037): 3100 files, no impossibilities.
 # C:\Program Files\MATLAB\R2017b\runtime\win64 (key C:/Program Files/MATLAB/R2017b/runtime/win64, mtime 1645815202): 7 files, no impossibilities.
 # C:\opencv\build\install\x64\mingw\bin (key C:/opencv/build/install/x64/mingw/bin, mtime 1657979756): 60 files, no impossibilities.
-# C:\Users\admin\.dotnet\tools (key C:/Users/admin/.dotnet/tools, mtime 1653410772): 4 files, no impossibilities.
+# C:\Users\admin\.dotnet\tools (key C:/Users/admin/.dotnet/tools, mtime 16 
+make.exe: *** No rule to make target 'all'.  Stop.
+
+53410772): 4 files, no impossibilities.
 # C:\Program Files\PuTTY\ (key C:/Program Files/PuTTY/, mtime 1636207345): 12 files, no impossibilities.
 
 # 3946 files, no impossibilities in 36 directories.
@@ -317,8 +320,6 @@ run:
 # strcache performance: lookups = 3995 / hit rate = 4%
 # hash-table stats:
 # Load=3819/8192=47%, Rehash=0, Collisions=1571/3995=39%
-# Finished Make data base on Wed Jul 27 20:58:58 2022
+# Finished Make data base on Thu Jul 28 16:21:30 2022
 
  
-make.exe: *** No rule to make target 'all'.  Stop.
-
